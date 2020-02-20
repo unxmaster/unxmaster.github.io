@@ -1,1 +1,1 @@
-This is my personal blog
+Welcome to the blog!
